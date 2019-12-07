@@ -1,0 +1,11 @@
+/Users/fcellini/Repositories/challenge/src/main/java/com/fcellini/challenge/repositories/AccountRepository.java
+/Users/fcellini/Repositories/challenge/src/main/java/com/fcellini/challenge/ChallengeApplication.java
+/Users/fcellini/Repositories/challenge/src/main/java/com/fcellini/challenge/controller/BalanceController.java
+/Users/fcellini/Repositories/challenge/src/main/java/com/fcellini/challenge/configuration/SwaggerConfig.java
+/Users/fcellini/Repositories/challenge/src/main/java/com/fcellini/challenge/models/TrxRequest.java
+/Users/fcellini/Repositories/challenge/src/main/java/com/fcellini/challenge/models/TransactionType.java
+/Users/fcellini/Repositories/challenge/src/main/java/com/fcellini/challenge/controller/TransactionController.java
+/Users/fcellini/Repositories/challenge/src/main/java/com/fcellini/challenge/storage/AccountDatabase.java
+/Users/fcellini/Repositories/challenge/src/main/java/com/fcellini/challenge/models/Balance.java
+/Users/fcellini/Repositories/challenge/src/main/java/com/fcellini/challenge/services/AccountService.java
+/Users/fcellini/Repositories/challenge/src/main/java/com/fcellini/challenge/models/Transaction.java
